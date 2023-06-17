@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactInote/static/css/main.99a75f87.css",
-    "main.js": "/ReactInote/static/js/main.f83e1fba.js",
-    "static/js/787.0a52803e.chunk.js": "/ReactInote/static/js/787.0a52803e.chunk.js",
-    "index.html": "/ReactInote/index.html",
-    "main.99a75f87.css.map": "/ReactInote/static/css/main.99a75f87.css.map",
-    "main.f83e1fba.js.map": "/ReactInote/static/js/main.f83e1fba.js.map",
-    "787.0a52803e.chunk.js.map": "/ReactInote/static/js/787.0a52803e.chunk.js.map"
+    "main.css": "/myapp/static/css/main.99a75f87.css",
+    "main.js": "/myapp/static/js/main.74d1de5e.js",
+    "static/js/787.0a52803e.chunk.js": "/myapp/static/js/787.0a52803e.chunk.js",
+    "index.html": "/myapp/index.html",
+    "main.99a75f87.css.map": "/myapp/static/css/main.99a75f87.css.map",
+    "main.74d1de5e.js.map": "/myapp/static/js/main.74d1de5e.js.map",
+    "787.0a52803e.chunk.js.map": "/myapp/static/js/787.0a52803e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99a75f87.css",
-    "static/js/main.f83e1fba.js"
+    "static/js/main.74d1de5e.js"
   ]
 }
